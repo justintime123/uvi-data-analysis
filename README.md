@@ -12,10 +12,18 @@ Time series analysis of UV Index data in NYC from 2000 to 2025
  
 ## Visualizations
 
+- The below charts depict % observations for UV index categories of high and very high every 5 years.
+- Ratings of high and above require sunscreen and recommended cover during peak hours.
+
 ![Image](https://github.com/user-attachments/assets/06705359-81d2-428f-bf37-b5e7f7b823ef)
- 
+*All-sky distributions over the years. high is uv index 6-7, and very high is 8-10.*
+
+
+![Image](https://github.com/user-attachments/assets/476afe7d-d9c9-45b3-9a14-b3f85b7585ac)
+*Clear-sky distributions over the years. high is uv index 6-7, and very high is 8-10.*
+
 ## Discussion
-See [Analysis](https://docs.google.com/document/d/1J_YixFedP1f0STpI05tjxHHzvOOlKxIdXTCIJais4fQ/edit?usp=sharing) for discussion.
+See [Analysis](https://docs.google.com/document/d/1J_YixFedP1f0STpI05tjxHHzvOOlKxIdXTCIJais4fQ/edit?usp=sharing) for discussion and more visualizations.
 
 ## Technologies 
 - Python:
